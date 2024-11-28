@@ -8,4 +8,4 @@ I am Miriam (she/her)
 - 🎄 This December I will join the Advent of Code on TryHackMe, in October I participated in The Huntress CTF
 - :bulb: I love automating things, especially my home. My favorite automation ever is my custom sunrise, that wakes me every morning with all the lights in my bedroom.
 
-I have a Bachelor of Science in Biotechnology and went on to rock it as the IT department of a medical lab where I wrote workflows in Molis and Python to automate the boring stuff. While at parental leave I started studying again and am now working towards a masters in Practical Informatics.
+I have a Bachelor of Science in Biotechnology and went on to rock it as the IT department of a medical lab where I wrote workflows in Molis and Python to automate the boring stuff. While at parental leave I started studying again and am now working towards a masters in Practical Computer Science.
